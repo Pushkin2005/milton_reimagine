@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a luxury F1 hypercar with interactive telemetry, thermodynamics tech, and pre-order features to engage motorsport enthusiasts and buyers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
